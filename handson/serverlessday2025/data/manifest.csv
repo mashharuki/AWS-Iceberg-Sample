@@ -1,0 +1,2 @@
+"path","length","partition_spec_id","added_snapshot_id","added_data_files_count","added_rows_count","existing_data_files_count","existing_rows_count","deleted_data_files_count","deleted_rows_count","partitions"
+"s3://otfs-workshop-data-860010260849/datasets/athena_iceberg/customer_iceberg/metadata/e4564269-76a9-4cf8-9d32-e5d45069ae9a-m0.avro","7042","0","3367024045542236357","1","2000000","0","0","0","0","[]"
